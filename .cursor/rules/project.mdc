@@ -1,0 +1,5 @@
+---
+description: Shared project rules
+alwaysApply: true
+---
+Read and follow [AGENTS.md](../../AGENTS.md). This is the sole authoritative coding policy for this repository.
